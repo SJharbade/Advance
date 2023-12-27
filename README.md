@@ -1,2 +1,2 @@
-# Advance
+# GAN
 Repsotiory for GAN code
